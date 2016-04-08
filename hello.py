@@ -1,6 +1,8 @@
-print("Hello World")
-print("alpha, bravo, charlie, delta")
-print("echo, foxtrot")
-print("yay Pyladies")
+print("hello!")
+print("doe")
+print("a deer")
+print("a female deer")
+print("ray")
+print("a drop of golden sun")
 
 print("Alexa")
